@@ -1,1 +1,4 @@
 # recolor-project
+这是一个使用stablediffusion模型和controlnet对黑白图像进行上色的项目
+使用方法:
+在Model文件夹内放入stablediffusion模型，在ControlNet文件夹中放入用于Recolor的controlnet模型
